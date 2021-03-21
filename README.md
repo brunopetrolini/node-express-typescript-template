@@ -1,5 +1,7 @@
 # Template Node.JS com Typescript
 
+Um template simples para com alguns recursos pré-configurados para te auxiliar a iniciar um novo projeto em Node.JS
+
 ## ✅ Recursos pré-configurados
 
 - [Typescript](https://www.typescriptlang.org/docs/)
